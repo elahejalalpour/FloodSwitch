@@ -1,2 +1,3 @@
 # FloodSwitch
-Simple Learning Switch in Floodlight platform
+## Introduction
+It is a leaning switched developed as an application on the floodlight platform.
